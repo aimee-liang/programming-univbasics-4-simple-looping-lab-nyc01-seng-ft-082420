@@ -1,6 +1,7 @@
 def loop_message_five_times(string)
   counter = 0
-  while counter
+  while counter = 0 do 
+    
 end
 
 def loop_message_n_times
