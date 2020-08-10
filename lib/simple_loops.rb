@@ -11,7 +11,8 @@ end
 
 def output_array(array)
   counter = 0 
-  while 
+  while array[counter] do
+    puts array
 end
 
 def return_string_array
